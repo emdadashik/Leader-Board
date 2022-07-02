@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: #bfcbec;
+}
+
+/* header section start */
+header{
+    background: #562EFF;
+}
+.logo-text{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 7px;
+}
+.navbar-brand img{
+    width: 40px;
+}
+/* header section start */
+
+/* Player & Blog section start */
+.pl-bl{
+    background-color: white;
+    border-radius: 40px;
+}
+.clr-h{
+    color: #562EFF;
+}
+.img{
+    width: 56px;
+    margin-bottom: 15px;
+}
+.row p{
+    margin-left: 4px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Player & Blog section start */
+.img-b{
+    width: 177px;
+    height: 117px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* Player & Blog section end */
+
+/* courses section start */
+.courses{
+    background-color: white;
+    border-radius: 40px;
+    height: 362px;
+}
+.pb4{
+    padding-bottom: 24.5rem;
+}
+.card{
+    width: 252.42px;
+    height: 269.79px;
+    border: none;
+    border-radius: 10px;
+    filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+}
+/* courses section end */
+
+footer{
+    background-color: #34495e;
+}
+footer p{
+    color: white;
+}
